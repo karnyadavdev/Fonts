@@ -1,2 +1,2 @@
 # SF-Pro-Fonts
-SF Pro &amp; Mono fonts ttf files i use to customize my system
+SF Pro Text &amp; Mono ttf files i use to customize my system
