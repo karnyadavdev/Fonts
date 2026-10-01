@@ -1,2 +1,2 @@
 # Fonts
-Fonts i use to customize my system
+Fonts i use
